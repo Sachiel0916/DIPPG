@@ -141,6 +141,10 @@ information systems (FedCSIS), 2011
   - Jeremy Speth et al, arXiv, 2024
 
 ### Datasets
+- [	Image enhancement for remote photoplethysmography in a low-light environment.]() (BUAA-MIHR)
+  - Lin Xi et al, EEE International Conference on Automatic Face and Gesture Recognition (FG), 2020
+  - [download](https://github.com/topics/buaa-mihr-rppg-dataset)
+
 - [DEAP: A Database for Emotion Analysis ;Using Physiological Signals](https://ieeexplore.ieee.org/document/5871728) (DEAP)
   - Sander Koelstra et al, IEEE Transactions on Affective Computing (TAFFC), 2011
   - [download](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)
